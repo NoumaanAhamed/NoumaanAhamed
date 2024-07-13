@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring free Alternatives &lpar;GPU&rpar; to Google Colab](https://noumaan.bearblog.dev/alternatives-to-googlecolab/)
+- [Size Matters: LLM Quantization Techniques &lpar;Part 1&rpar;](https://noumaan.bearblog.dev/llm-quantization-1/)
+- [Rough draft for my blog ideas](https://noumaan.bearblog.dev/rough-draft-llms/)
+- [What might come](https://noumaan.bearblog.dev/what-might-come/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
