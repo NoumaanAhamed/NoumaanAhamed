@@ -7,15 +7,11 @@
 
 - 🌱 I’m currently learning **Large Language Models ( LLMs )**
 
-- 👯 I’m looking to collaborate on **Large Language Models ( LLMs )**
-
-- 🤝 I’m looking for help with **Large Language Models ( LLMs )**
-
 - 👨‍💻 All of my projects are available at [https://github.com/NoumaanAhamed](https://github.com/NoumaanAhamed)
 
 - 📝 I regularly write articles on [https://noumaan.bearblog.dev](https://noumaan.bearblog.dev)
 
-- 💬 Ask me about **LLMs**
+- 💬 Ask me about **Web Development/DevOps/Web3/AI**
 
 - 📫 How to reach me **noumaanahamed@gmail.com**
 
