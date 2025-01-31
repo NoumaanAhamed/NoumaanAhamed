@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [LLMs.txt: SEO for AI](https://noumaan.bearblog.dev/llms-dot-txt/)
 - [How to build a Modern Computer from Scratch](https://noumaan.bearblog.dev/computer-from-scratch/)
 - [Exploring free Alternatives &lpar;GPU&rpar; to Google Colab](https://noumaan.bearblog.dev/alternatives-to-googlecolab/)
 - [Size Matters: LLM Quantization Techniques &lpar;Part 1&rpar;](https://noumaan.bearblog.dev/llm-quantization-1/)
+- [Rough draft for my blog ideas](https://noumaan.bearblog.dev/rough-draft-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
