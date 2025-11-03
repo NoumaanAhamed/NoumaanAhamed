@@ -2,15 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noumaanahamed&label=Profile%20views&color=0e75b6&style=flat" alt="noumaanahamed" /> </p>
 
-- 🔭 I’m currently working on **Generative AI**
-
-- 🌱 I’m currently learning **Large Language Models ( LLMs )**
-
-- 👨‍💻 All of my projects are available at [https://github.com/NoumaanAhamed](https://github.com/NoumaanAhamed)
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 📝 I regularly write articles on [https://noumaan.bearblog.dev](https://noumaan.bearblog.dev)
 
-- 💬 Ask me about **Web Development/DevOps/Web3/AI**
+- 💬 Ask me about **Web2/3**
 
 - 📫 How to reach me **noumaanahamed@gmail.com**
 
